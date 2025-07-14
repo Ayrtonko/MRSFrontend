@@ -1,0 +1,17 @@
+# dependencies
+mrs-frontend/node_modules
+
+# production
+mrs-frontend/dist
+
+# local env files
+mrs-frontend/.env*
+
+# typescript
+mrs-frontend/*.tsbuildinfo
+
+# IDEs and editors
+.idea/
+
+# logs
+mrs-frontend/npm-debug.log*
